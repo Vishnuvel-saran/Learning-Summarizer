@@ -12,12 +12,12 @@ When learning AI Engineering under a mentor, most of the actual learning happens
 
 A student may accumulate:
 
-* Handwritten notes
-* PDFs and DOCX files
-* Daily learning logs
-* Code experiments
+* Handwritten note
+* PDFs and DOCX file
+* Daily learning log
+* Code experiment
 * GitHub repositories
-* Projects
+* Project
 * Research material
 * Implementation results
 
